@@ -1,0 +1,2 @@
+# Edgars
+Manuprāt, pārāk maz laika bija un ļoti daudz uzdevumu, kas apgrūtinaja darbību un nācās steigties. Tāpēc viss sanāca vidēji - varēja būt labāk, bet ļoti centos. Kā arī uzdevuma nosacījumi dažreiz bija galīgi nesaprotami 
