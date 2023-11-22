@@ -1,3 +1,6 @@
 # 4.uzdevums
+vardnica = {}
 with open("kautkas.json",'rb') as fails:
-      fails1 = fails.read()
+      for linija in fails:
+            (a, b) = linija.split()
+            vardnica[int(a)] = b
